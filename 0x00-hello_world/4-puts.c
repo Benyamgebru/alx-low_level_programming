@@ -1,10 +1,10 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point
  *
  * Description: print a line of code using puts
  *
- * Return: 0
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
