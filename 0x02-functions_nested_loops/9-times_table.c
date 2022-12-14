@@ -5,7 +5,8 @@
  * times_table - print the 9 times table, starting with 0
  * Retrurn: empty output
  */
-void times_tables(void)
+
+void times_table(void)
 {
 	int x, y, z, u, d;
 
