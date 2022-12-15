@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_line - function that draws a straight line the term
  * @n: input number
