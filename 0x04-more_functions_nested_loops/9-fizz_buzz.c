@@ -3,6 +3,7 @@
 
 /**
  * main - prints Buzz each numbers of 3 and 5
+ * Description - FizzBuzz
  * Return: Always 0 (Success)
  */
 
@@ -34,5 +35,6 @@ int main(void)
 		}
 	}
 	printf("\n");
+
 	return (0);
 }
