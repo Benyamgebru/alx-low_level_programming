@@ -2,9 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the numbers from 1 to 100, followed by a new line
- * but for multiplies of three prints Fizz instead of the number
- * and for the multiples of five prints Buzz
+ * main - prints Buzz each numbers of 3 and 5
  * Return: Always 0 (Success)
  */
 
@@ -36,6 +34,5 @@ int main(void)
 		}
 	}
 	printf("\n");
-
 	return (0);
 }
