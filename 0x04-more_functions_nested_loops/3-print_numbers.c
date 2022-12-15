@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - prints 0123456789\n
- *
+ * @c: An input numbers
  * Return: void
  */
 
