@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * print_most_numbers - print the numbers since 0 up to 9
- * Description: prints the numbers excluding 2 and 4
- * Return: The numbers since 0 up to 9
+ * print_most_numbers - prints number between 0 to 9
+ * (neither 2 nor 4)
+ * Return: no return
  */
 
 void print_most_numbers(void)
 {
-	char c;
+	int c;
 	for (c = '0'; c <= '9'; c++)
 	{
 		if (!(c == '2' || c == '4'))
