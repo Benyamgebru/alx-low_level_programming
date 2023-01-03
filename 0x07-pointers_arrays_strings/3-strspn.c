@@ -16,7 +16,7 @@ unsigned int_strspn(char *s, char *accept)
 	{
 		for (r = 0; accept[r]; r++)
 		{
-			if (*s == accpet[r])
+			if (*s == accept[r])
 			{
 				n++;
 				break;
