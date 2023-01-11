@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 
 	/*Declaring while*/
 
-	while (coins[postion] != '\0')
+	while (coins[position] != '\0')
 
 	{
 		if (total >= coins[position])
