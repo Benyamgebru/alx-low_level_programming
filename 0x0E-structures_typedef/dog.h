@@ -6,7 +6,7 @@
  * @name: name
  * @age: age
  * @owner: owner
- * Description: This struct is for dog
+ * Description: Longer description
  */
 
 struct dog
@@ -28,4 +28,4 @@ void free_dog(dog_t *d);
 char *_strcpy(char *dest, char *src);
 int _strlen(char *s);
 
-#endif /*DOG_H*/
+#endif 
