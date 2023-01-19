@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 	for (count = 0; count < bytes; count++)
 	{
 		printf("%02hhx", *((char *)main + counts));
-		if (count  < bytes -1)
+		if (count < bytes -1)
 			printf(" ");
 		else
 			printf("\n");
